@@ -1,7 +1,5 @@
 #Angular2 Webpack Seed 
 
-![logo](assets/webpack+angular.png "webpack+angular.png")
-
 
 ```bash
 # clone repo
